@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GrpcClient", "GrpcClient\GrpcClient.csproj", "{C67187D7-D07F-4126-91F5-3BE6F2F7DBC8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FinancialApp", "..\FinancialApp\FinancialApp\FinancialApp.csproj", "{EAE7863D-FC65-46EF-A94D-E4AFE4F148A2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C67187D7-D07F-4126-91F5-3BE6F2F7DBC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C67187D7-D07F-4126-91F5-3BE6F2F7DBC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C67187D7-D07F-4126-91F5-3BE6F2F7DBC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C67187D7-D07F-4126-91F5-3BE6F2F7DBC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EAE7863D-FC65-46EF-A94D-E4AFE4F148A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAE7863D-FC65-46EF-A94D-E4AFE4F148A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAE7863D-FC65-46EF-A94D-E4AFE4F148A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAE7863D-FC65-46EF-A94D-E4AFE4F148A2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {87869B63-704B-4065-AC2E-F5A5E41DAE2C}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "UserConsole": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\oumai\\Downloads\\multi-stream-hedging-project\\input\\Basket_5_3_1\\basket_5_3_1_mkt_data.csv\r\nC:\\Users\\oumai\\Downloads\\multi-stream-hedging-project\\input\\Basket_5_3_1\\basket_5_3_1_param.json\r\nC:\\Users\\oumai\\Downloads\\multi-stream-hedging-project\\output\\basket5_3_1_output.json"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+    "VolCholeskyLines": [
+      [0.3] 
+    ],
+    "MathPaymentDates": [
+      0.3333333333333333
+    ],
+    "Strikes": [
+      15
+    ],
+    "DomesticInterestRate": 0.05,
+    "RelativeFiniteDifferenceStep": 0.1,
+    "SampleNb": 10000,
+    "PayoffType": "VanillaCall"
+  }
+  

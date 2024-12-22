@@ -1,0 +1,39 @@
+{
+    "assetDescription": {
+      "underlyingCurrencyCorrespondence": {
+        "id_0": "eur"
+      },
+      "currencyRates": {
+        "eur": 0.05
+      },
+      "domesticCurrencyId": "eur"
+    },
+    "rebalancingOracleDescription": {
+      "period": 1,
+      "type": "Fixed"
+    },
+    "numberOfDaysInOneYear": 252,
+    "payoffDescription": {
+      "type": "Standard",
+      "creationDate": "2025-01-06T00:00:00",
+      "paymentDates": [
+        "2025-05-06T00:00:00"
+      ],
+      "strikes": [15]
+    },
+    "pricingParams": {
+      "underlyingPositions": {
+        "id_0": 0
+      },
+      "foreignCurrencyPositions": {},
+      "volatilities": [0.2],
+      "correlations": [
+        [1]
+      ],
+      "initialSpots": [13],
+      "trends": [0.05],
+      "sampleNb": 10000,
+      "relativeFiniteDifferenceStep": 0.1
+    }
+  }
+  
