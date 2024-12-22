@@ -72,7 +72,6 @@ P_m & = \left(\max_{n \in \{1,\dots,N\}} S^n_{t_m} - K_m\right)_+ \, \mathbb{1}_
 \end{align*}
 ```
 The derivative product streams $`P_m`$ on the date $`t_m`$ for $`m \in \{1,\dots, M\}`$.
----
 
 ## Directory Structure
 
@@ -104,8 +103,8 @@ The following describes how you can run the app on windows architechture, suppos
 - Visual Studio 2022.
 - Cmake gui.
 - git.
-- pnl_library (fichier pnl-win-64): https://github.com/pnlnum/pnl/releases
-- vcpkg (depuis ce git: https://github.com/microsoft/vcpkg#quick-start-windows)
+- pnl_library (file pnl-win-64): https://github.com/pnlnum/pnl/releases.
+- vcpkg (follow instructions on this git: https://github.com/microsoft/vcpkg#quick-start-windows).
 - Run the following commands, to install requirements :
 1- .\vcpkg.exe install protobuf:x64-windows
 2- .\vcpkg.exe install grpc:x64-windows
